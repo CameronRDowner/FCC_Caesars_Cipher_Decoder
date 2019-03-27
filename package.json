@@ -1,0 +1,14 @@
+{
+  "name": "caesars_cipher_decoder",
+  "version": "1.0.0",
+  "description": "function decodes a string that is encoded in caesars cipher",
+  "main": "Caesars Cipher Decoder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cameron Downer",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.15.3"
+  }
+}
